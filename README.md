@@ -1,1 +1,10 @@
 # AIML-2024
+[LAB_01](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/LAB-01.ipynb)
+[LAB_02](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-02.ipynb)
+[LAB_03](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-03.ipynb)
+[LAB_04](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-04.ipynb)
+[LAB_05](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-05.ipynb)
+[LAB_06](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-06.ipynb)
+[LAB_07](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-07.ipynb)
+[LAB_08](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/LAB08.ipynb)
+[LAB_09](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/LAB09.ipynb)
