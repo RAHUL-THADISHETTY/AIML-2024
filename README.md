@@ -8,3 +8,4 @@
 [LAB_07](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/Lab-07.ipynb)
 [LAB_08](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/LAB08.ipynb)
 [LAB_09](https://github.com/RAHUL-THADISHETTY/AIML-2024/blob/main/LAB09.ipynb)
+[LAB_10]()
